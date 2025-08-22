@@ -1,2 +1,3 @@
-# divino-IT128
-# divino-IT128
+Name: Vincent Perry M. Divino
+Section: ITS152L-FOPM01
+Program: BSIT 
